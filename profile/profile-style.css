@@ -1,0 +1,13 @@
+@charset "utf-8";
+.text-cedetblue{
+    color:cadetblue;
+}
+span{
+    border: 3px dotted black;
+}
+.green{
+    color: green;
+}
+body{
+    background-color: rgb(206, 243, 249);
+}
