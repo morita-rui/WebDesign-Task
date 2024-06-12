@@ -1,1 +1,20 @@
 @charset "UTF-8";
+th{
+    color: white;
+    background-color: rgb(84, 79, 79);
+    text-align: left;
+    vertical-align: top;
+    padding: 10px;
+}
+td{
+    background-color: rgb(196, 196, 196);
+    font-size: 10px;
+    padding: 10px;
+}
+.brakets{
+    background-color: red;
+    border-radius: 10%;
+}
+span{
+    font-size: 8px;
+}
